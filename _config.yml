@@ -196,7 +196,7 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /sort/tags/:name/
-    category: /sort//categories/:name/
+    category: /sort/categories/:name/
 
 plugins:
   - jekyll-redirect-from
