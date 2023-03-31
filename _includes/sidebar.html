@@ -3,30 +3,10 @@
 -->
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
-  <div class="profile-wrapper text-center">
-    <div id="avatar">
-      <a href="{{ '/' | relative_url }}" class="mx-auto">
-        {% if site.avatar != empty and site.avatar %}
-          {% capture avatar_url %}
-            {% if site.avatar contains '://' %}
-              {{ site.avatar }}
-            {% elsif site.img_cdn != empty and site.img_cdn %}
-              {{ site.avatar | prepend: site.img_cdn }}
-            {% else %}
-              {{ site.avatar | relative_url }}
-            {% endif %}
-          {% endcapture %}
-          <img src="{{ avatar_url | strip }}" alt="avatar" onerror="this.style.display='none'">
-        {% endif %}
-      </a>
-    </div>
-
-    <div class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    </div>
-    <div class="site-subtitle font-italic">{{ site.tagline }}</div>
-
-  </div><!-- .profile-wrapper -->
+  <div class="profile-wrapper text-center" style="margin-top: 4rem!important;
+  margin-bottom: -2.3rem!important;">
+    <div class="site-title" style="margin-top:-1.6rem!important;"> <a href="/"><img style="max-width: 74%!important;margin-top: 0!important;
+      margin-bottom: -1rem!important;" src="//cdn.yeahgames.net/img/legal/logos/yourt.png"><p style="font-size:1rem !important;"><a style="font-size:1.42rem!important;" href="/">The Legal Archive</a></p><br></a></div></div>
 
   <ul class="w-100">
 
@@ -48,7 +28,17 @@
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
+    <!--adding new items
+    <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+      <a href="{{ tab.url | relative_url }}" class="nav-link">
+        <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+        {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
 
+        <span>{{ site.data.locales[site.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+      </a>
+    </li> 
+    end adding new items-->
+    <!-- .nav-item -->
   </ul> <!-- ul.nav.flex-column -->
 
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
