@@ -3,10 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- type: instagram
-  icon: "fab fa-instagram"
-  url: 'https://instagram.com/_yeahgames'
-
 - type: twitter
   icon: "fab fa-twitter"
 
