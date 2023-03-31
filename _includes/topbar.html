@@ -58,6 +58,13 @@
       {% endif %}
     </div>
 
-    <div id="search-container"> <input type="text" id="search-input" placeholder="Search this collection..."> <ul id="results-container"></ul> </div> <script src="/search/search.js" type="438ba8d0488ce1b3d73f9abb-text/javascript"></script>  <script type="438ba8d0488ce1b3d73f9abb-text/javascript"> SimpleJekyllSearch({ searchInput: document.getElementById('search-input'), resultsContainer: document.getElementById('results-container'), json: '/search/search.json' }) </script> </div>
+    <i id="search-trigger" class="fas fa-search fa-fw"></i>
+    <span id="search-wrapper" class="align-items-center">
+      <i class="fas fa-search fa-fw"></i>
+      <input class="form-control" id="search-input" type="search"
+        aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[site.lang].search.hint | capitalize }}...">
+    </span>
+    <span id="search-cancel" >{{ site.data.locales[site.lang].search.cancel }}</span>
+  </div>
    
 </div>
