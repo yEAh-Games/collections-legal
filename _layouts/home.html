@@ -49,8 +49,12 @@ layout: page
 
           <div class="card-text post-content">
             <p>
+              {% if post.description %}
+             {{post.description | truncate: 200 | strip_html}}
+             {% else %}
               {% include no-linenos.html content=post.content %}
               {{ content | markdownify | strip_html | truncate: 200 | escape }}
+              {% endif %}
             </p>
           </div>
 
