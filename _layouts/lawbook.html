@@ -13,7 +13,20 @@ tail_includes:
 
 {% include post-meta.html %}
 
+  <script>
+    function toggleDiv(divId) {
+      var div = document.getElementById(divId);
+      if (div.style.display === "none") {
+        div.style.display = "block";
+      } else {
+        div.style.display = "none";
+      }
+    }
+  </script>
+
 <div class="post-content">
+  <a href="#" onclick="toggleDiv('content')">View item details</a>
+  <div id="content" style="display:none;">
   <table>
     <tr>
       <td><b>CLASS:</b></td>
@@ -32,6 +45,7 @@ tail_includes:
       <td>{{page.section}}</td>
     </tr>
   </table>
+</div>
   <hr/>
   {{ content }}
 </div>
