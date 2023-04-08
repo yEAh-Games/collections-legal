@@ -9,6 +9,7 @@ permalink: /lawbook/disclaimers/quotes
 redirect_from: /item/quote-disclaimer
 type: Disclaimer
 section: Overview [0]
+description: "Legal disclaimer and information relating to the yEAh Games Quotes system (including QOTDs, QOTWs, etc.), the Quotes collection, publishing quotes, liability, etc. Read this before submitting, creating or viewing any Quotes published by yEAh Games."
 ---
 <!-- wp:paragraph -->
 <p>We are required to disclose this information relating to quotes; this includes, but is not necessarily limited to: Quotes of the Day(s), Quotes of the Week(s), Quotes of the Month(s), Quotes of the Year.</p>
