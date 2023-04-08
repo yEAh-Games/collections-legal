@@ -38,7 +38,7 @@ tail_includes:
     </tr>
     <tr>
       <td><b>PATH:</b></td>
-    <td>{{page.url | remove: 'https' | remove: 'archive.legal.yeahgames.net' | remove: '://' | replace: '/',' → ' | remove: 'overview'}}</td>
+    <td>{{page.url | capitalize | remove: 'https' | remove: 'archive.legal.yeahgames.net' | remove: '://' | replace: '/',' → ' | remove: 'overview'}}</td>
     </tr>
     <tr>
       <td><b>SECTION:</b></td>
