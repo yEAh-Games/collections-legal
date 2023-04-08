@@ -6,6 +6,7 @@ author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Laws, General]
 permalink: /lawbook/laws/general/tos
+link: https://archive.legal.yeahgames.net/lawbook/laws/general/tos
 redirect_from: /item/yeah-games-tos
 type: Law
 section: Overview [0]
