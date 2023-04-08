@@ -21,10 +21,11 @@ tail_includes:
     </tr>
     <tr>
       <td><b>TYPE:</b></td>
-      <td>{{post.type}}</td>
+      <td>{{page.type}}</td>
     </tr>
-    <tr><b>PATH:</b>
-    <td>{{post.url | remove: 'https' | remove: 'archive.legal.yeahgames.net' | remove: '://' | replace: '/',' → ' | remove: 'overview'}}</td>
+    <tr>
+      <td><b>PATH:</b></td>
+    <td>{{page.url | remove: 'https' | remove: 'archive.legal.yeahgames.net' | remove: '://' | replace: '/',' → ' | remove: 'overview'}}</td>
     </tr>
     <tr>
       <td><b>SECTION:</b></td>
