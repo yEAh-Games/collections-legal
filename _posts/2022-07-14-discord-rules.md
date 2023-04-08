@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: lawbook
 title: Official Discord rules
 date: 2022-07-14 22:13
 author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Laws, Discord]
-permalink: /lawbook/laws/discord/rules/overview
+permalink: /lawbook/laws/discord/rules
 redirect_from: /item/discord-rules
+type: Law
+section: Overview [0]
 ---
 <!-- wp:paragraph -->
 <p><em>Please note that these rules are the <strong>original</strong> official rules; new rules have been put into place since then. See the full lawbook for full details, including for rules outside of the Discord server.</em></p>

@@ -1,12 +1,15 @@
 ---
-layout: post
+layout: lawbook
 title: The official languages of yEAh Games
 date: 2022-08-02 22:21
 author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Standards, General]
-permalink: /lawbook/standards/general/languages/overview
+permalink: /lawbook/standards/general/languages
 redirect_from: /item/official-languages-of-yeah-games
+tags: [Docs, featured, languages, lawbook, official, official-rules, rule-docs, rules, Rules/lawbook, Yanguage]
+type: Standard
+section: Overview [0]
 ---
 <!-- wp:table-of-contents {"headings":[{"content":"Introduction","level":2,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#introduction"},{"content":"Official languages","level":2,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#official-languages"},{"content":"English","level":3,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#english"},{"content":"French","level":3,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#french"},{"content":"Wumilcixupaiata","level":3,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#wumilcixupaiata"},{"content":"Sbalti Gamor Ck'tel","level":3,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#sbalti-gamor-ck-tel"},{"content":"Additional information","level":2,"link":"https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#additional-information"}]} -->
 <ol><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#introduction">Introduction</a></li><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#official-languages">Official languages</a><ol><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#english">English</a></li><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#french">French</a></li><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#wumilcixupaiata">Wumilcixupaiata</a></li><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#sbalti-gamor-ck-tel">Sbalti Gamor Ck'tel</a></li></ol></li><li><a class="wp-block-table-of-contents__entry" href="https://yeaharchives.wordpress.com/2022/08/02/the-official-languages-of-yeah-games/#additional-information">Additional information</a></li></ol>

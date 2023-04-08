@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: lawbook
 title: Quote disclaimers/liability
 date: 2022-09-22 17:20
 author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Disclaimers]
-permalink: /lawbook/disclaimers/quotes/overview
+permalink: /lawbook/disclaimers/quotes
 redirect_from: /item/quote-disclaimer
+type: Disclaimer
+section: Overview [0]
 ---
 <!-- wp:paragraph -->
 <p>We are required to disclose this information relating to quotes; this includes, but is not necessarily limited to: Quotes of the Day(s), Quotes of the Week(s), Quotes of the Month(s), Quotes of the Year.</p>

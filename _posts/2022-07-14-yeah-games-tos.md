@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: lawbook
 title: Official yEAh Games ToS
 date: 2022-07-14 22:32
 author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Laws, General]
-permalink: /lawbook/laws/general/tos/overview
+permalink: /lawbook/laws/general/tos
 redirect_from: /item/yeah-games-tos
+type: Law
+section: Overview [0]
 ---
 <!-- wp:paragraph -->
 <p><em>The following are yEAh Games' law-binding ToS. Breaking the set-out rules in the following can result in real-life, legal punishment. If you have a problem with any ToS, contact us with your legal reason, and, under the penalty of perjury, must swear that the information is accurate. These Terms of Service apply to the Discord server; the official websites (including, but not limited to, <a href="https://yeahgames.pro">https://yeahgames.pro</a>, <a href="https://yeah-games.weebly.com">https://yeah-games.weebly.com</a>, and<a href="https://livechat1-yeaharchives.weebly.com"> https://livechat1-yeaharchives.weebly.com</a>); and elsewhere involving official, legal yEAh Games business.</em></p>
