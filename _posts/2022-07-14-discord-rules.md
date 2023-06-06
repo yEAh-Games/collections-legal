@@ -7,6 +7,7 @@ comments: true
 categories: [Legal, Lawbook, Laws, Discord]
 permalink: /lawbook/laws/discord/rules
 link: https://archive.legal.yeahgames.net/lawbook/laws/discord/rules
+canonical_url: https://archive.legal.yeahgames.net/lawbook/laws/discord/rules
 redirect_from: /item/discord-rules
 type: Law
 section: Overview [0]
