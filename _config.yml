@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A library collection for archiving material relating to The Yourt of yEAh Games, including news, cases, laws, policies, disclaimers and more.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://archive.legal.yeahgames.net"
+url: "http://archive.legal.ynwk.org"
 
 github:
   username: yeah-games # change to your github username
