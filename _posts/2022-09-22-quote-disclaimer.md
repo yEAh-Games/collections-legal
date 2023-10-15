@@ -8,8 +8,8 @@ categories: [Legal, Lawbook, Disclaimers]
 tags: [disclaimer, liability, quotes]
 permalink: /lawbook/disclaimers/quotes
 redirect_from: /item/quote-disclaimer
-link: https://archive.legal.yeahgames.net/lawbook/disclaimers/quotes
-canonical_url: https://archive.legal.yeahgames.net/lawbook/disclaimers/quotes
+link: https://archive.legal.ynwk.org/lawbook/disclaimers/quotes
+canonical_url: https://archive.legal.ynwk.org/lawbook/disclaimers/quotes
 type: Disclaimer
 section: Overview [0]
 description: "Legal disclaimer and information relating to the yEAh Games Quotes system (including QOTDs, QOTWs, etc.), the Quotes collection, publishing quotes, liability, etc. Read this before submitting, creating or viewing any Quotes published by yEAh Games."

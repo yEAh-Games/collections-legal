@@ -1,4 +1,4 @@
-Sitemap: https://archive.legal.yeahgames.net/sitemap.xml
+Sitemap: https://archive.legal.ynwk.org/sitemap.xml
 
 User-agent: *
 Disallow: /cdn-cgi/

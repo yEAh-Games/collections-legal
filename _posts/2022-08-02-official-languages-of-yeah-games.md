@@ -6,7 +6,7 @@ author: yeahgamesdevs
 comments: true
 categories: [Legal, Lawbook, Standards, General]
 permalink: /lawbook/standards/general/languages
-link: https://archive.legal.yeahgames.net/lawbook/standards/general/languages
+link: https://archive.legal.ynwk.org/lawbook/standards/general/languages
 redirect_from: /item/official-languages-of-yeah-games
 tags: [Docs, featured, languages, lawbook, official, official-rules, rule-docs, rules, Rules/lawbook, Yanguage]
 type: Standard
